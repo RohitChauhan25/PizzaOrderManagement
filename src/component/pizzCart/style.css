@@ -1,0 +1,43 @@
+
+
+
+  .pizza-card {
+    margin: 8px 0;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .overtime{
+    background-color: rgb(241, 23, 23);
+  }
+
+  .overtime >p {
+    color: white;
+  }
+  h3 {
+    color: #333;
+    margin: 4px;
+  }
+  
+  p {
+    color: #666;
+    margin: 4px;
+  }
+
+  .pizza-card > p {
+    font-weight: bold;
+    padding: 0;
+  }
+
+  .pizza-card > p > span{
+    font-weight: normal;
+  }
+
+  .next{
+    width: 100px;
+    font-size: 14px;
+    border: 1px solid;
+  }

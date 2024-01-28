@@ -5,9 +5,31 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-gourmet-food-pizza-background-template-image_160185.jpg');
+  padding: 0;
+  height: 100vh; 
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  display: flex;
+  color: white;
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.app{
+  display: flex;
+  
+}
+
+
+
+
+
